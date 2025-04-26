@@ -30,3 +30,7 @@ Follow these steps to set up the project locally:
    git clone https://github.com/adarsh3813/Camp-review-App.git
    cd Camp-review-App
    ```
+
+## 📷 Preview
+
+![Home-Page](project-demo/home-page.png)
